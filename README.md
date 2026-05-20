@@ -14,6 +14,7 @@ Motivated cybersecurity professional with a strong interest in threat detection,
 - 🧪 Building hands-on skills with labs and security tools
 - 📚 Continuously learning about network security and detection techniques
 - 🎯 Seeking opportunities to grow in cybersecurity
+- ⚡ Fun Fact: I enjoy meeting new people and also love watching football.
 
 ---
 
