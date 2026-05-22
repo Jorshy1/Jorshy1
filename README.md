@@ -62,15 +62,12 @@ Documented solutions and lessons learned from beginner cybersecurity challenges.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🌐 Connect With Me
 
-
+GitHub: github.com/Jorshy1
 ---
 
 > “Cybersecurity is much more than a matter of IT.” – Stephane Nappo
