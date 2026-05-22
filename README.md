@@ -21,25 +21,13 @@ Motivated cybersecurity professional with a strong interest in threat detection,
 ## 🧰 Skills & Tools
 
 ### Security Tools
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-004170?style=flat)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)
+[Wireshark]
+[Nmap]
+[Splunk]
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)
-
-
----
-
-## 📂 Projects
-
-### 🔹 SOC Home Lab
-Created a beginner SOC lab environment to practice log monitoring and threat detection.
-
-
-### 🔹 CTF Writeups
-Documented solutions and lessons learned from beginner cybersecurity challenges.
+[Linux]
+[Windows]
 
 ---
 
@@ -48,8 +36,10 @@ Documented solutions and lessons learned from beginner cybersecurity challenges.
 - SIEM Fundamentals
 - Threat Hunting Basics
 - Incident Response
-- Network Traffic Analysis
-- 
+- Networking Basics
+- Wireshark
+- Nmap
+- Malware Analysis
 
 ---
 
